@@ -2,6 +2,8 @@
 
 My simple implementation of <a href="https://dev.mysql.com/doc/dev/mysql-server/latest/PAGE_PROTOCOL.html">Mysql Client/Server Protocol</a>
 
+Support connect only via unix_sockets and doesnt't implemented SSL
+
 Example:
 
 ```py 
